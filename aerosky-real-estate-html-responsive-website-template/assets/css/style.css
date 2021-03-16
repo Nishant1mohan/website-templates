@@ -231,7 +231,8 @@ ul, .list.custom-list ul {
 	top: -100px;
 }
 .navbar-inverse {
-	background: rgb(255, 130, 47);
+/* 	background: rgb(255, 130, 47); */
+	background: rgb(255 47 47);
 	position: absolute;
 	z-index: 99999999;
 	width: 100%;
